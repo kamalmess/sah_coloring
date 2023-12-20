@@ -4,11 +4,11 @@
     "key_iron": "dir keyapp dial ironsournce",
     "Banner_idF": "dir id banner facebook",
     "Interstitial_idF": "dir inter id facebook",
-    "inter_max": "963c714daa907c2d",
+    "inter_max": "0d6d421b20c0dcfa",
     "banner_id": "",
-    "max_banner": "461506a3f027a92e",
+    "max_banner": "8a227ce376cfef1d",
     "Native": "",
     "Native_max": "ebbd4ec143d17dd5",
-    "networkAd": "admob"
+    "networkAd": "max"
   }
 }
